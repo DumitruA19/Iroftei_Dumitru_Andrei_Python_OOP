@@ -158,6 +158,4 @@ Uses `python-jose`, `passlib[bcrypt]`, and `PyJWT` for:
 
 ---
 
-## 📄 License
 
-MIT License - Dumitru A. @ 2025
