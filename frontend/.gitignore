@@ -1,0 +1,77 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.log
+*.sqlite3
+*.db
+.env
+.env.*
+*.env
+
+# 🐳 Docker
+*.tar
+docker-compose.override.yml
+docker-compose.yml
+Dockerfile
+# 🔧 Pip
+*.egg-info/
+.eggs/
+dist/
+build/
+*.bak
+
+# 📦 Virtualenv
+venv/
+env/
+ENV/
+.venv/
+
+# ⚙️ VSCode / IDE config
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 📄 CSV / debug / test output
+*.csv
+*.tsv
+*.out
+*.tmp
+
+# 🔧 Kafka logs and data
+kafka-logs/
+zookeeper-data/
+tmp/
+logs/
+
+# ⚛️ Frontend - Vite / Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.cache/
+
+# 🔐 Keys / secrets (în caz că sunt locale)
+*.pem
+*.key
+*.crt
+*.keystore
+
+# 🐘 PostgreSQL / SQL dumps
+*.sql
+
+# 🐙 Git merge / conflict
+*.orig
+
+# 🧪 Test coverage
+coverage/
+.coverage
+htmlcov/
+.cache/
+pytest_cache/
+
+# 📦 Docker volumes
+volumes/
+

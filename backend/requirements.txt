@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic[email]  # instaleaza email-validator automat
+passlib[bcrypt]
+python-jose[cryptography]
+PyJWT
+python-multipart
+bcrypt
+kafka-python
+prometheus_client
+psutil
+python-json-logger
+python-dotenv
